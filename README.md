@@ -11,8 +11,6 @@
 A glimpse into the tools and technologies I work with:  
 
 <p align="center">
-  
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,6 +44,13 @@ A glimpse into the tools and technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=YGhorbel&show_icons=true&theme=tokyonight" alt="Yassine's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YGhorbel&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 🔄 Previous Account  
+
+⚠️ This is my **new GitHub account**.  
+My old account was 👉 [SfaynGH](https://github.com/SfaynGH), where you can find my **earlier projects and contributions**.  
 
 ---
 
