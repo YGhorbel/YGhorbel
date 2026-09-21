@@ -16,11 +16,9 @@ AI engineer building **retrieval and agentic systems over regulated and legal te
 
 ```yaml
 focus:
-  - knowledge-graph retrieval (Neo4j, Steiner-tree assembly, GraphRAG)
+  - knowledge-graph retrieval (Neo4j, GraphRAG)
   - LLM agents &amp; orchestration (LangGraph, LangChain, LangSmith)
-currently:     AI Intern @ Guepard — NL2SQL over graph-linked schemas
-learning:      Rust for systems work, on-prem small-model serving
-ask_me_about:  why your vector search is the wrong retriever
+currently:     AI Intern @ Guepard
 ```
 
 <br/>
