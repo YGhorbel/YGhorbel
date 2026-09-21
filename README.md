@@ -103,11 +103,11 @@ Build a perfect CV.
 ## 📊 Activity
 
 <p align="center">
-  <img width="92%" src="./metrics.svg" alt="GitHub metrics" />
+  <img width="62%" src="./metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-  <img width="92%" src="./metrics.habits.svg" alt="Coding habits" />
+  <img width="62%" src="./metrics.habits.svg" alt="Coding habits" />
 </p>
 
 <p align="center">
