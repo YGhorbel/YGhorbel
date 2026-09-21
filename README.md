@@ -1,76 +1,96 @@
-# Hi there! 👋 I'm Yassine Ghorbel  
-🎓 ICT Engineering Student at SUP'COM  
-🤖 Passionate AI & Software Engineer with a strong drive to build impactful solutions across **AI, IoT, and Automation**.  
-💡 I love transforming ideas into intelligent systems — from **deep learning in healthcare** to **smart cities and agriculture**, and recently into **agentic AI systems**.  
-
-🌟 For me, the real joy comes from exploring new technologies, solving complex challenges, and turning concepts into tangible realities.  
-
----
-
-## 🚀 Tech Stack  
-A glimpse into the tools and technologies I work with:  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-FF4C8B?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0F766E,100:0EA5E9&height=180&section=header&text=Yassine%20Ghorbel&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Retrieval%20%26%20agentic%20systems%20over%20regulated%20text&descAlignY=58&descSize=17" />
 </p>
 
----
-
-## 📊 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YGhorbel&show_icons=true&theme=tokyonight" alt="Yassine's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YGhorbel&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://yassine-ghorbel-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yassine-ghorbel-33a692299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yassine.ghorbel.rep@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<br>
 
-## 🔄 Previous Account  
+## 🧠 About
 
-⚠️ This is my **new GitHub account**.  
-My old account was 👉 [SfaynGH](https://github.com/SfaynGH), where you can find my **earlier projects and contributions**.  
+AI engineer building **retrieval and agentic systems over regulated and legal text**, with production ML/MLOps experience. Specializes in **knowledge-graph retrieval**, **LLM-backed conversational agents**, and taking research prototypes to monitored production services. Track record shipping ML systems across a startup (**Guepard**), a global enterprise (**Allianz**), and R&D labs (**Huawei**, **CRNS**).
 
----
+```yaml
+focus:
+  - knowledge-graph retrieval (Neo4j, Steiner-tree assembly, GraphRAG)
+  - LLM agents & orchestration (LangGraph, LangChain, LangSmith)
+currently:     AI Intern @ Guepard — NL2SQL over graph-linked schemas
+learning:      Rust for systems work, on-prem small-model serving
+ask_me_about:  why your vector search is the wrong retriever
+```
 
-## 📫 Let’s Connect  
+<br>
+
+## 🛠️ Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yassine-ghorbel-33a692299/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,rust,r,matlab&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=neo4j,postgres,redis,mongodb&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,githubactions,aws,grafana,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>
+    <b>Agents & retrieval</b> LangGraph · LangChain · LangSmith · Qdrant · FAISS · OWL/SKOS &nbsp;•&nbsp;
+    <b>MLOps</b> MLflow · Prefect · CI/CD &nbsp;•&nbsp;
+    <b>Data</b> Airflow · Spark · Kafka · MinIO
+  </sub>
+</p>
+
+<details>
+<summary align="center"><sub>also comfortable with — web, mobile & the rest of the toolbox</sub></summary>
+<p align="center"><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,go,c,flask,firebase,mysql,selenium&theme=dark" />
+</p>
+</details>
+
+<br>
+
+## 📌 Selected Work
+
+<!-- Replace REPO_ONE / REPO_TWO / REPO_THREE with your actual repository names -->
+<p align="center">
+  <a href="https://github.com/YGhorbel/REPO_ONE">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YGhorbel&repo=REPO_ONE&hide_border=true&theme=tokyonight" />
   </a>
-  <a href="https://yassine-ghorbel-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐-Portfolio-orange?style=for-the-badge" />
+  <a href="https://github.com/YGhorbel/REPO_TWO">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YGhorbel&repo=REPO_TWO&hide_border=true&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YGhorbel">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:yassine.ghorbel@supcom.tn">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</p>
+<p align="center">
+  <a href="https://github.com/YGhorbel/REPO_THREE">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YGhorbel&repo=REPO_THREE&hide_border=true&theme=tokyonight" />
   </a>
 </p>
 
----
+<br>
 
-✨ *"Exploring AI x IoT x Agentic Systems to create scalable and meaningful innovations."*  
+## 🏆 Achievements
+
+🥇 **IndabaX Tunisia 2025 — 1st Place** · ETL pipeline + optimized BERT inference for a top ROUGE score
+
+<br>
+
+## 📊 Activity
+
+<p align="center">
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=YGhorbel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=0D1117&icon_color=0EA5E9&title_color=0EA5E9" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YGhorbel&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0EA5E9" />
+</p>
+
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=YGhorbel&bg_color=0D1117&color=0EA5E9&line=0F766E&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <sub>Earlier projects live on my previous account — <a href="https://github.com/SfaynGH">@SfaynGH</a></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,55:0F766E,100:0F172A&height=110&section=footer" />
+</p>
