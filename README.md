@@ -53,19 +53,44 @@ ask_me_about:  why your vector search is the wrong retriever
 
 ## 📌 Selected Work
 
-<p align="center">
-  <a href="https://github.com/YGhorbel/ontology-agent">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YGhorbel&amp;repo=ontology-agent&amp;hide_border=true&amp;theme=tokyonight" />
-  </a>
-  <a href="https://github.com/YGhorbel/Tutored-Project-Insurance-Assistant">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YGhorbel&amp;repo=Tutored-Project-Insurance-Assistant&amp;hide_border=true&amp;theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/YGhorbel/TalentSketch">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YGhorbel&amp;repo=TalentSketch&amp;hide_border=true&amp;theme=tokyonight" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧩 [ontology-agent](https://github.com/YGhorbel/ontology-agent)
+Auto-profiles relational schemas into an OWL/SKOS ontology and infers relationships directly from data.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📜 [Insurance Assistant](https://github.com/YGhorbel/Tutored-Project-Insurance-Assistant)
+Knowledge-graph retrieval over Tunisian and EU insurance regulation, answering compliance questions by graph traversal.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📄 [TalentSketch](https://github.com/YGhorbel/TalentSketch)
+Build a perfect CV.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 👁️ [Argus](https://github.com/YGhorbel/Argus)
+<!-- add a one-line description -->
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -78,12 +103,17 @@ ask_me_about:  why your vector search is the wrong retriever
 ## 📊 Activity
 
 <p align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=YGhorbel&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;hide_title=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;icon_color=0EA5E9&amp;title_color=0EA5E9" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YGhorbel&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=0EA5E9" />
+  <img width="92%" src="./metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=YGhorbel&amp;bg_color=0D1117&amp;color=0EA5E9&amp;line=0F766E&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" />
+  <img width="92%" src="./metrics.habits.svg" alt="Coding habits" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/YGhorbel?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYGhorbel&amp;query=%24.public_repos&amp;label=repositories&amp;style=flat-square&amp;color=0EA5E9&amp;logo=github" /></a>
+  <a href="https://github.com/YGhorbel?tab=followers"><img src="https://img.shields.io/github/followers/YGhorbel?style=flat-square&amp;color=0F766E&amp;logo=github&amp;label=followers" /></a>
+  <a href="https://github.com/YGhorbel?tab=stars"><img src="https://img.shields.io/github/stars/YGhorbel?style=flat-square&amp;color=334155&amp;logo=github&amp;label=stars" /></a>
 </p>
 
 <p align="center">
